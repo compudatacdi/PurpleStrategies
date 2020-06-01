@@ -1,0 +1,26 @@
+{
+	"success": true,
+	"message": "",
+	"result": [
+		{
+			"id": 6,
+			"contract_id": "229",
+			"begin_date": "May 01 2020",
+			"end_date": "Aug 31 2020",
+			"description": "test",
+			"intacct_recordno": 0,
+			"total_amount0": 500000,
+			"team_lead": "fred flintstone",
+			"client_id": 1
+
+		}
+	],
+
+	"errors": [
+		{
+			"message": "x"
+		}
+	]
+
+}
+

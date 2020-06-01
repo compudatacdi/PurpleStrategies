@@ -1,0 +1,23 @@
+{
+	"success": true,
+	"message": "",
+	"result": [
+		{
+			"_name": "Project Name X",
+			"requester_email": "johnsmith@genericemail.com",
+			"work_begin_date": "Apr 24 2020",
+			"email0": "andrew@sequent-tech.com",
+			"team_lead": "Andrew Burger",
+			"projectcategory": "Contract",
+			"total_services_value": 30000,
+			"contract_description": "Sample Feb 21 2020, updated 04/20/20",
+			"requester_name": "John Smith",
+			"id": 244,
+			"work_end_date": "Aug 21 2020",			
+			"total_billed_amount": 0,
+			"total_unbilled_amount": 0,
+			"total_paid_amount": 0,
+			"total_unpaid_amount": 0
+		}
+	]
+}
